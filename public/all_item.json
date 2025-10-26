@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Door",
+    "category": "Door",
+    "image": "/image/door-img.jpg"
+  },
+  {
+    "id": 2,
+    "name": "King Size Bed",
+    "category": "Cabinet",
+    "image": "/image/cabinet.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Modern Wooden Cabinet",
+    "category": "Bed",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Comfortable Wooden Chair",
+    "category": "Sofa",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Dining Table Set",
+    "category": "Table",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Glass Tea Table",
+    "category": "Tea Table",
+    "image": "https://images.unsplash.com/photo-1588854337112-3a9d4c8cde8d?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Wooden Almira",
+    "category": "Almira",
+    "image": "https://images.unsplash.com/photo-1598300058850-6f28e5f0b33c?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Office Table",
+    "category": "Tea Table",
+    "image": "/image/tea-table.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Study Table",
+    "category": "Aquriam Table",
+    "image": "/image/aquriamteatable.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sofa Set",
+    "category": "Sofa",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "name": "Basin stand",
+    "category": "Basin stand",
+    "image": "/image/basin.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Basin stand",
+    "category": "Corner",
+    "image": "/image/corner.jpg",
+    "images": [
+      "/image/corner.jpg",
+      "/image/corner.jpg",
+      "/image/corner.jpg",
+      "/image/corner.jpg",
+      "/image/tea-table.jpg"
+    ]
+  }
+]

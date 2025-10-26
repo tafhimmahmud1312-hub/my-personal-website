@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "King Size Platform Bed",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=1a7d9b4f8a8b8f3c9b5f6f0a9b1c2d3e"
+  },
+  {
+    "id": 2,
+    "name": "Wooden Slatted Bed",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=4b2e6b7f9c3a2b1c5d6e7f8a9b0c1d2e"
+  },
+  {
+    "id": 3,
+    "name": "Upholstered Headboard Bed",
+    "image": "https://images.unsplash.com/photo-1505691723518-36a1c0444a05?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f"
+  },
+  {
+    "id": 4,
+    "name": "Canopy Bed",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=9e8f7a6b5c4d3e2f1a0b9c8d7e6f5a4b"
+  },
+  {
+    "id": 5,
+    "name": "Mid-century Modern Bed",
+    "image": "https://images.unsplash.com/photo-1524758631624-3a8f0f0b4f6f?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e"
+  },
+  {
+    "id": 6,
+    "name": "Storage Drawer Bed",
+    "image": "https://images.unsplash.com/photo-1581541208373-6b2f5b6d4a2f?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f"
+  },
+  {
+    "id": 7,
+    "name": "Sleigh Bed",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a"
+  },
+  {
+    "id": 8,
+    "name": "Minimal Frame Bed",
+    "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c"
+  },
+  {
+    "id": 9,
+    "name": "Industrial Metal Bed",
+    "image": "https://images.unsplash.com/photo-1530629013299-6cb3a73a8a07?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d"
+  },
+  {
+    "id": 10,
+    "name": "Scandinavian Low Bed",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e"
+  }
+]
