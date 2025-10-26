@@ -30,9 +30,6 @@ const Header = () => {
       <section>
         <img src={image} alt="" />
       </section>
-      <section>
-        <Categories></Categories>
-      </section>
     </div>
   );
 };
